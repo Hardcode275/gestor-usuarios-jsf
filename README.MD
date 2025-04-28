@@ -87,5 +87,5 @@ http://localhost:8081/gestor/registro.xhtml
 
 ## 📌 Autor
 
-- Desarrollado por: [Tu Nombre Aquí]
-- Carnet: OG100122
+- Desarrollado por: Hr
+- Carnet:
